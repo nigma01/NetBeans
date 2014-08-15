@@ -17,9 +17,10 @@ public class EjerciciosJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        for(int x = 0; x<10; x++)
-            System.out.println("index" + x);
+        //pruaba
+        for(int y = 0; y<10; y++)
+            
+            System.out.println("index y" +y);
     }
     
 }
