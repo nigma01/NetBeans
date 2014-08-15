@@ -17,6 +17,9 @@ public class EjerciciosJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        for(int x = 0; x<10; x++)
+            System.out.println("index" + x);
     }
     
 }
